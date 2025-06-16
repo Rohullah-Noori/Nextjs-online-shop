@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": " Product 1",
+      "price": 30,
+      "description": "Kitchen sinks are essential for washing dishes, vegetables, and hands.\nKitchen lamps provide focused lighting for cooking and food preparation.\nCabinets store utensils, cookware, and pantry items in an organized way.\nCountertops offer space for chopping, mixing, and serving meals.\nStoves and ovens are central for cooking a variety of dishes.\nRefrigerators keep food fresh and beverages cold.\nThese materials make the kitchen functional, efficient, and enjoyable to use.",
+      "image": "https://m.media-amazon.com/images/I/71r1BLOWnkL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "2",
+      "title": " Product 2",
+      "price": 10,
+      "description": "Household cleaners like glass and ceramic cleaners help keep surfaces shiny and free from stains.\nThey remove dirt, grease, and bacteria, making the home healthier.\nGlass cleaners leave mirrors and windows streak-free and crystal clear.\nCeramic cleaners restore the shine of tiles and prevent mold growth.\nRegular use of these products extends the life of surfaces.\nThey also reduce unpleasant odors and leave a fresh scent.\nUsing the right cleaner makes cleaning faster and more effective.",
+      "image": "https://media.istockphoto.com/id/510693044/photo/house-cleaning-product-on-wood-table.jpg?s=612x612&w=0&k=20&c=EZfeRCDgSMPnqG684zQBOqyNfDGx9JWTXS1Q2Lhrjy4="
+    },
+    {
+      "id": "3",
+      "title": " Product 3",
+      "price": 20,
+
+      "description": "Household cleaning tools like toothbrushes and bathroom brushes help maintain personal and home hygiene.\nToilet brushes are essential for keeping toilets clean and germ-free.\nShampoo is not only for hair but can also be used for gentle surface cleaning.\nCeramic cleaners remove stains and keep tiles shiny and fresh.\nKitchen floor cleaners remove grease and food residue for a safer cooking space.\nYard floor cleaners help",
+
+      "image": "https://t3.ftcdn.net/jpg/01/91/32/34/360_F_191323402_W2ATUPr8dGHALHrvyX4WVlEDz4qXmmd9.jpg"
+    },
+    {
+      "id": "4",
+      "title": " Product 4",
+      "price": 100,
+      "description": "Bedroom essentials like pillows and beds provide comfort and support for restful sleep.\nSoft blankets and bed sheets add warmth and relaxation.\nCurtains help control light and add privacy to your room.\nClosets and drawers keep clothes and accessories organized.\nNightstands are useful for holding lamps, books, or phones.\nCarpets add a cozy feeling and reduce noise in the room.\nThese home materials make the bedroom more comfortable and functional.",
+      "image": "https://a-static.besthdwallpaper.com/colorful-cartoon-design-with-open-door-and-household-items-wallpaper-1152x768-102826_36.jpg"
+    },
+    {
+      "id": "5",
+      "title": " Product 5",
+      "price": 80,
+      "description": "Chairs provide comfortable seating and come in various styles for different rooms.\nLamps add both light and ambiance, making spaces feel warm and inviting.\nWall art and paintings bring personality and color to your home.\nShelves and stands help organize books, plants, and decorative items.\nRugs define areas and add texture to floors.\nMirrors enhance light and make rooms appear more spacious.\nDecorations reflect your style and turn a house into a home.",
+      "image": "https://plus.unsplash.com/premium_photo-1683133958062-12afa652a4fb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG9tZSUyMGRlY29yfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "6",
+      "title": " Product 6",
+      "price": 5,
+      "description": "Fruits are a natural source of vitamins, minerals, and fiber. They come in a variety of colors, shapes, and flavors. Eating fruits regularly helps boost your immune system. Some common fruits include apples, bananas, oranges, and grapes. Fruits are a delicious and healthy snack for any time of day.Many fruits grow on trees, bushes, or vines depending on the type. Tropical fruits like mangoes and pineapples thrive in warm climates.",
+
+      "image": "https://t3.ftcdn.net/jpg/06/06/15/56/360_F_606155606_rFYHJP0uKgPNdpT3NoDbucxp0h38rlWb.jpg"
+    }
+  ]
+  ,
+  "discount":[
+  "id":1, "code":"ev00", "percentage":10, 
+  ]
+}
