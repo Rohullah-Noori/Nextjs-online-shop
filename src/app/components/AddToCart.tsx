@@ -1,6 +1,6 @@
 "use client";
 
-import { useShopingContextCustim } from "../context/page";
+import { useShopingContextCustim } from "../context/shoppingContext";
 type IcardProp = {
   id: string;
 };

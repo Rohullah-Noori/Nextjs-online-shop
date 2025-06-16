@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 import Container from "../components/Container";
 import CartItem from "../components/CartItem";
-import { useShopingContextCustim } from "../context/page";
+import { useShopingContextCustim } from "../context/shoppingContext";
 import axios from "axios";
 import { IProductsProps } from "../components/Products";
 import { formatNumber } from "@/utils/number";

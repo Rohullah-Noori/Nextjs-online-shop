@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import React, { useState } from "react";
 import Container from "./Container";
-import { useShopingContextCustim } from "../context/page";
+import { useShopingContextCustim } from "../context/shoppingContext";
 import Cookies from "js-cookie";
 import { Menu, X, ShoppingCart } from "lucide-react";
 
