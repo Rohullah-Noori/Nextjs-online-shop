@@ -27,7 +27,7 @@ export default function Products({ image, title, price }: IProductsProps) {
           alt="A cool photo"
           width={500}
           height={400}
-          className="rounded-t-lg w-3xl h-60 object-cover "
+          className="rounded-t-lg w-3xl h-60 object-cover  "
         />
         <div className="pt-4 pb-4">
           <h2 className="">title : {title}</h2>

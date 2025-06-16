@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Container from "../components/Container";
-import axios from "axios";
+
 import Cookie from "js-cookie";
 import { useRouter } from "next/navigation";
 
@@ -12,8 +12,6 @@ export default function Login() {
 
   const handleLogin = async () => {
     try {
-      // const res = await axios.post("/api/login", { user, password });
-
       const response = {
         token: "asdasfasfdasdsaafs",
         expire: 7,
