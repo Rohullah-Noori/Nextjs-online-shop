@@ -4,12 +4,18 @@ import { IProductsProps } from "@/app/components/Products";
 
 import React from "react";
 
-interface Iproductspropchild {
-  params: { id: string };
-  searchParams: {};
-}
+// interface Iproductspropchild {
+//   params: { id: string };
+//   searchParams?: { [key: string]: string | string[] | undefined };
+// }
 
-export default async function Product({ params }: Iproductspropchild) {
+export default async function Product({
+  params,
+  searchParams,
+}: {
+  params: { id: string };
+  searchParams?: { [key: string]: string | string[] };
+}) {
   const result = await fetch(`http://localhost:3004/products/${params.id}`);
   const data = (await result.json()) as IProductsProps;
 
